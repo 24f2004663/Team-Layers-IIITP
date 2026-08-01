@@ -1,9 +1,0 @@
-name: "Gap Analysis Prompt"
-version: "v1"
-description: "Compares Identity Profile values against Behavior logs to diagnose growth gaps."
-author: "System"
-supported_agent: "GapAnalysisAgent"
-supported_model: "gemini-1.5-pro"
-temperature: 0.2
-max_tokens: 2048
-expected_output_schema: "GapAnalysisResult"

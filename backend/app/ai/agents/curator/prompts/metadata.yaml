@@ -1,9 +1,0 @@
-name: "Resource Curation Prompt"
-version: "v1"
-description: "Ranks candidate learning opportunities and assembles conformed Learning Bundles."
-author: "System"
-supported_agent: "CuratorAgent"
-supported_model: "gemini-1.5-pro"
-temperature: 0.3
-max_tokens: 2048
-expected_output_schema: "CuratorAgentOutput"
