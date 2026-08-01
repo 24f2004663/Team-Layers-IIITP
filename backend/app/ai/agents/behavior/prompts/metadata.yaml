@@ -1,0 +1,9 @@
+name: "Behavior Profiling Prompt"
+version: "v1"
+description: "Evaluates raw user actions and patterns to build natural work style profile traits."
+author: "System"
+supported_agent: "BehaviorAgent"
+supported_model: "gemini-1.5-pro"
+temperature: 0.3
+max_tokens: 2048
+expected_output_schema: "BehaviorProfile"

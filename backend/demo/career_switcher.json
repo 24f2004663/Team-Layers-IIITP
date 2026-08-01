@@ -1,0 +1,22 @@
+{
+  "user_id": "33333333-3333-3333-3333-333333333333",
+  "name": "Marcus Vance",
+  "archetype": "Career Switcher",
+  "identity": {
+    "identity_summary": "Financial Analyst pivoting into software development and data science domains.",
+    "career_goal": "Junior Data Analyst",
+    "interests": ["SQL", "Python Pandas", "Data Visualization"],
+    "learning_style": "Structured Video Courses",
+    "time_commitment": "12 hours/week"
+  },
+  "behavior": {
+    "focus_style": "Pomodoro",
+    "attention_span_minutes": 25,
+    "productive_hours": [18, 19, 20, 21],
+    "consistency_score": 0.78
+  },
+  "goals": ["Learn SQL joins", "Build data dashboard using Streamlit"],
+  "missions": [],
+  "learning_history": [],
+  "reflection_history": []
+}

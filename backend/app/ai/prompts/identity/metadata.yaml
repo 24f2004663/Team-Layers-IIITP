@@ -1,0 +1,6 @@
+name: "Identity Profiling Prompt"
+version: "v1"
+description: "Generates user personality archetype and core strengths based on onboarding data."
+author: "System"
+supported_agent: "IdentityAgent"
+supported_model: "gemini-1.5-pro"

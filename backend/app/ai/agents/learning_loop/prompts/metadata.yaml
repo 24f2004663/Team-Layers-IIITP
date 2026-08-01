@@ -1,0 +1,9 @@
+name: "Learning Loop Reflection Prompt"
+version: "v1"
+description: "Generates daily reflections, growth deltas, and simulator calibration updates."
+author: "System"
+supported_agent: "LearningLoopAgent"
+supported_model: "gemini-1.5-pro"
+temperature: 0.2
+max_tokens: 2048
+expected_output_schema: "LearningLoopAgentOutput"

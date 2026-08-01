@@ -1,0 +1,9 @@
+name: "Daily Planner Prompt"
+version: "v1"
+description: "Generates daily agenda schedule allocations respecting available hours and focus patterns."
+author: "System"
+supported_agent: "PlannerAgent"
+supported_model: "gemini-1.5-pro"
+temperature: 0.2
+max_tokens: 2048
+expected_output_schema: "PlannerAgentOutput"

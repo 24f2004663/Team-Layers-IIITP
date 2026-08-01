@@ -1,0 +1,22 @@
+{
+  "user_id": "44444444-4444-4444-4444-444444444444",
+  "name": "Elena Rostova",
+  "archetype": "Tech Founder",
+  "identity": {
+    "identity_summary": "Technical founder building SaaS platforms and integrating conversational LLM features.",
+    "career_goal": "CTO & Co-founder",
+    "interests": ["SaaS Architecture", "Product Development", "OpenAI APIs"],
+    "learning_style": "Rapid Prototyping",
+    "time_commitment": "20 hours/week"
+  },
+  "behavior": {
+    "focus_style": "Deep Work",
+    "attention_span_minutes": 60,
+    "productive_hours": [5, 6, 7, 8, 12, 13],
+    "consistency_score": 0.88
+  },
+  "goals": ["Ship MVP authentication layer", "Integrate OpenAI API billing counters"],
+  "missions": [],
+  "learning_history": [],
+  "reflection_history": []
+}

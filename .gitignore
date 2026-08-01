@@ -1,0 +1,20 @@
+# Python virtual environment & cache
+backend/.venv/
+backend/.pytest_cache/
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+backend/app/db/local_lifegps.db
+
+# Flutter build & cache
+life_gps/.dart_tool/
+life_gps/build/
+life_gps/.flutter-plugins
+life_gps/.flutter-plugins-dependencies
+life_gps/.packages
+life_gps/life_gps.iml
+life_gps/android/.gradle/
+
+# OS specific files
+.DS_Store
+Thumbs.db
